@@ -1,4 +1,4 @@
-from remainder import Calculations
+from calculations import Calculations
 import unittest
 
 class TestRemainder(unittest.TestCase):
